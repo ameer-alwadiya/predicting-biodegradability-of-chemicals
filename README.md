@@ -1,6 +1,6 @@
 # Predicting the Biodegradability of Chemicals
 
-This repository contains the code and data used in the study "Predicting the Biodegradability of Chemicals from QSAR data" by Ameer S. H. Alwadiya. The research explores the application of supervised machine learning models to predict the biodegradability of chemicals using Quantitative Structure-Activity Relationship (QSAR) data. 
+The research explores the application of supervised machine learning models to predict the biodegradability of chemicals using Quantitative Structure-Activity Relationship (QSAR) data. 
 
 ## Table of Contents
 
